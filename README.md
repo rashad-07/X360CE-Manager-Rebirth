@@ -5,7 +5,6 @@ A Playnite plugin inspired by Dawoox for opening and closing X360CE with specifi
 ## Features
 - Automatically launch X360CE when a specific game starts.
 - Close X360CE when the game exits.
-- Manage X360CE configurations per game.
 - View all games that have X360CE enabled.
 
 ## Installation
