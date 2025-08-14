@@ -8,7 +8,7 @@ A Playnite plugin inspired by Dawoox for opening and closing X360CE with specifi
 - View all games that have X360CE enabled.
 
 ## Installation
-1. Download the latest `.pext` file from the [Releases page](https://github.com/rashad-07/X360CE-Manager-Rebirth/releases/).
+1. Download the file from the [Releases page](https://github.com/rashad-07/X360CE-Manager-Rebirth/releases/).
 2. Drag and drop the `.pext` file into Playnite
 
 ## Setup
