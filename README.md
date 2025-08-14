@@ -9,8 +9,7 @@ A Playnite plugin inspired by Dawoox for opening and closing X360CE with specifi
 
 ## Installation
 1. Download the latest `.pext` file from the [Releases page](https://github.com/rashad-07/X360CE-Manager-Rebirth/releases/).
-2. Open Playnite → Add-ons → Install from file.
-3. Select the downloaded `.pext` file.
+2. Drag and drop the `.pext` file into Playnite
 
 ## Setup
 1. Click the **Settings** → **Extensions** → **X360CE Manager Rebirth** → **Set X360CE Path** → choose the location of your `x360ce.exe`.
