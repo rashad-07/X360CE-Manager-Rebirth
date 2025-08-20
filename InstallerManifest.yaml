@@ -1,0 +1,8 @@
+AddonId: d30dd634-ae4a-4cc8-99e7-c57d192fc70c
+Packages:
+  - Version: 1.0.0
+    RequiredApiVersion: 6.0.0
+    ReleaseDate: 2025-08-19
+    PackageUrl: https://github.com/rashad-07/X360CE-Manager-Rebirth/releases/download/v1.0.0/X360CE_Manager_Rebirth_v1.0.0.pext
+    Changelog:
+      - Initial release
